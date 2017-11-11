@@ -10,6 +10,10 @@
 - [Infura: Gateway for Ethereum and IPFS](https://infura.io/)
 - [Create your own Ethereum private net](https://github.com/vincentchu/eth-private-net)
 
+### Tools
+- [CLI for managing common tasks in Ethereum](https://github.com/wealdtech/ethereal)
+- [Docker: geth + truffle + netstats](https://github.com/gregbkr/geth-truffle-docker)
+
 ### File storage
 
 - [IPFS](https://ipfs.io/)
