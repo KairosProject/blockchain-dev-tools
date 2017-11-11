@@ -33,3 +33,9 @@
 - [eSportsETH](https://github.com/manuelsc/eSportsETH)
 - [Liquid democracy implementation ](https://github.com/chrisdotn/ethdemocracy)
 - [Bet on football](https://github.com/chrisdotn/footballBet)
+- [Register documents on the Ethereum blockchain](https://github.com/dapatil/docstamp_contract)
+- [P2P Trade System](https://github.com/SafeMarket/dapp)
+- [Claim a solved sudoku board and get Sudokoin](https://github.com/sudokoin/sudokoin)
+- [Decentralized e-commerce](https://github.com/kioskprotocol/contracts)
+- [Decentralized insurance vehicle](https://github.com/ProvidentOne/contracts)
+

@@ -13,7 +13,12 @@
 ### Tools
 - [CLI for managing common tasks in Ethereum](https://github.com/wealdtech/ethereal)
 - [Docker: geth + truffle + netstats](https://github.com/gregbkr/geth-truffle-docker)
+- [TestRPC: Fast Ethereum RPC client for testing](https://github.com/ethereumjs/testrpc)
+- [Linter to identify and fix style & security issues in Solidity ](https://github.com/duaraghav8/Solium)
 
+
+### Databases
+- [Tomos: database interaction with the secure distributed network](https://github.com/tomosDB/tomos)
 ### File storage
 
 - [IPFS](https://ipfs.io/)
@@ -23,6 +28,7 @@
 
 - [Truffle Framework](http://truffleframework.com/)
 - [OpenZeppelin: smart contracts framework](https://openzeppelin.org/)
+- [Non-restrictive framework for Ethereum](https://github.com/DeStore/delib)
 
 ### Decentralized DNS
 
@@ -35,4 +41,7 @@
 - [Proof Suite](https://github.com/ProofSuite/ProofPresaleContract)
 
 
+### Contracts verifivation service
+
+- [Formal Verification of Smart Contracts](http://securify.ch/)
 ### ICO contracts
