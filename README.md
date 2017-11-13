@@ -19,6 +19,7 @@
 
 ### Databases
 - [Tomos: database interaction with the secure distributed network](https://github.com/tomosDB/tomos)
+- [orbit-db: Distributed, peer-to-peer database for the decentralized web.](https://github.com/orbitdb/orbit-db)
 ### File storage
 
 - [IPFS](https://ipfs.io/)
