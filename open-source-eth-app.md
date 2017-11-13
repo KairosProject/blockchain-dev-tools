@@ -38,4 +38,22 @@
 - [Claim a solved sudoku board and get Sudokoin](https://github.com/sudokoin/sudokoin)
 - [Decentralized e-commerce](https://github.com/kioskprotocol/contracts)
 - [Decentralized insurance vehicle](https://github.com/ProvidentOne/contracts)
+- [Giveth: dapp provides an alternative to traditional donation](https://github.com/Giveth/giveth-dapp)
+- [tipeth: one click tipping](https://github.com/ryanio/tipeth)
+- [Ethereum reputation by address](https://github.com/gointollc/etherep)
+- [ETHPonzi](https://github.com/MiguelBel/DApps/tree/master/PonziSchemeAsWeb)
+- [BTC Relay: An Ethereum contract for Bitcoin SPV.](https://github.com/ethereum/btcrelay)
+- [Proof of Existence + Links + Files + Blockchain](https://github.com/EverexIO/Chainy)
+- [Smartex: Accept digital money, receive any currency](https://github.com/smartexio)
+- [Hedge fund: Numer.ai](https://github.com/numerai/contract)
+- [ThanksCoin](https://github.com/f0xiz/thankscoin)
+ * [Website](https://www.thankscoin.org/)
+- [Proof of Github: oracle to identify GitHub account.](https://github.com/blocknotary/proofofgithub)
+ * [Website](http://proofofgithub.herokuapp.com/)
+- [UbiTok: decentralized exchange](https://ubitok.io/)
+  * https://github.com/bonnag/ubitok-contracts
+  * https://github.com/bonnag/ubitok-jslib
+  * https://github.com/bonnag/ubitok-ui
+  * https://github.com/bonnag/ubitok-www
+
 
